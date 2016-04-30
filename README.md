@@ -1,6 +1,5 @@
-## Julia Projects
+## Julia Actuarial
 
-### Julia Actuarial
  is loosely based on the MOOC, "Introduction to Actuarial Science", taught by Adam Butt of Australian National University on edX.org - but uses US Life Tables.
 
 **Topics**
